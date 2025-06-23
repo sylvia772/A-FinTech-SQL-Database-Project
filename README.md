@@ -27,7 +27,7 @@ To design and implement a bulletproof database where:
 \- schools – Represents associated educational institutions.  
 \- business\_profiles – Stores business accounts for users registered as businesses.
 
-\\Stored Procedures
+Stored Procedures
 
 1\. create\_user\_with\_wallet – Registers a new user and automatically creates their wallet.  
 2\. process\_transaction – Processes and records a credit or debit transaction, updating wallet balance.  
